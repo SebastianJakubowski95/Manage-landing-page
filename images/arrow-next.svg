@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="6.5993mm" height="11.6042mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 78.03 137.21"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#99CC99}
+    .fil1 {fill:#242d50;}
+   ]]>
+  </style>
+ </defs>
+ 
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil1" d="M2.76 134.46l-0 -0c-3.67,-3.67 -3.67,-9.67 0,-13.34l52.51 -52.51 -52.51 -52.51c-3.67,-3.67 -3.67,-9.67 0,-13.34l0 -0c3.67,-3.67 9.67,-3.67 13.34,0l59.18 59.18 0 0c3.67,3.67 3.67,9.67 0,13.34l-0 0 -59.18 59.18c-3.67,3.67 -9.67,3.67 -13.34,0z"/>
+ </g>
+</svg>
