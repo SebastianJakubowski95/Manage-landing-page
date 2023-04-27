@@ -19,9 +19,8 @@
     <link rel="stylesheet" href="index.css" />
   </head>
   <body>
-    <header>
-      <img src="./images/logo.svg" alt="logo" />
-      <nav>
+    <div id="modal" class="hide">
+      <nav id="navbar-modal">
         <ul>
           <li>
             <a href="#">Pricing</a>
@@ -32,7 +31,27 @@
           <li><a href="#">Community</a></li>
         </ul>
       </nav>
-      <button class="orange">Get Started</button>
+    </div>
+    <header>
+      <img src="./images/logo.svg" alt="logo" />
+      <nav id="navbar">
+        <ul>
+          <li>
+            <a href="#">Pricing</a>
+          </li>
+          <li><a href="#">Product</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Careers</a></li>
+          <li><a href="#">Community</a></li>
+        </ul>
+      </nav>
+      <button id="header-cta" class="orange">Get Started</button>
+      <button id="burger" class="hide transparent">
+        <img src="./images/icon-hamburger.svg" alt="menu" />
+      </button>
+      <button id="close" class="hide transparent">
+        <img src="./images/icon-close.svg" alt="close" />
+      </button>
     </header>
     <section class="section-intro">
       <div>
