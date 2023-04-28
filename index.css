@@ -22,7 +22,7 @@ body {
   display: grid;
   grid-template-columns: 6rem 1fr 6rem;
   grid-template-rows: auto;
-  overflow-x: hidden;
+  overflow-x: hidden !important ;
 }
 button {
   position: relative;
@@ -173,6 +173,9 @@ section.section-intro > div:nth-child(2) {
   max-width: 42rem;
   position: relative;
   z-index: 10;
+}
+.bg {
+  overflow-x: hidden !important ;
 }
 .section-intro .bg {
   position: absolute;
