@@ -16,7 +16,12 @@
     rgba(0, 0, 0, 0.8) 100%
   );
 }
+html,
 body {
+  overflow-x: hidden;
+}
+body {
+  position: relative;
   margin: 0;
   box-sizing: border-box;
   display: grid;
